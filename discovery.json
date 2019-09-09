@@ -1,0 +1,8 @@
+{
+    "botman/driver-config": [
+        "stubs/smsgateway24.php"
+    ],
+    "botman/driver": [
+        "BotMan\\Drivers\\SMSGateway24\\SMSGateway24Driver"
+    ]
+}
